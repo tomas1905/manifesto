@@ -1,20 +1,17 @@
 # Status has five options: Por Iniciar, Em Progresso, Cumprida, Quebrada, and Comprometida
 
 icons:
-    Primeiros 100 dias: clock-o
+    Sociedade: clock-o
     Cultura: music
     Economia: dollar
     Ambiente: leaf
     Government: university
-    Immigration: suitcase
-    Indigenous: users
-    Security: fighter-jet
-    Health: heart
-    World: globe
-    Education: graduation-cap
+    Segurança: fighter-jet
+    Saúde: heart
+    Educação: graduation-cap
 
 statuses:
-    Não Iniciada:
+    Por iniciar:
         color: info
         icon: hourglass-start
     Em Progresso:
@@ -35,7 +32,7 @@ Promessas:
         title: 'Aumentar infra-estruturas hospitalares em Chiúre, Cabo Delgado'
         description: 'Nenhuma infra-estrutura hospitalar foi construída no distrito de Chiúre de 2015 a 2017, segundo
 dados do Ministério da Saúde.'
-        url: '/propose-a-constitutional-amendment-to-impose-term-limits-on-all-members-of-congress/'
+        url: ''
         status: Não Iniciada
         status_info: 'Dados fornecidos pelo Ministério da Saúde indicam que não existem infra-estruturas hospitalares construídas de 2015 a 2017. O Plano Quinquenal do Governo não prevê construção de infra-estruturas hospitalares no distrito de Chiúre no decurso do actual mandato de governação.'
         category: Saúde
