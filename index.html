@@ -20,7 +20,7 @@ layout: page
                 </li> -->
                 <li class="list-group-item list-group-item">
                     <i class="fa fa-calendar fa-fw"></i>
-                    <b>Days In Office: <span id="days-in-office"><i class='loading'>Loading...</i></span></b>
+                    <b>Dias no cargo: <span id="days-in-office"><i class='loading'>Carregando...</i></span></b>
                 </li>
 
                 {% for status in statuses %}
@@ -156,7 +156,7 @@ layout: page
                     <tbody class="list">
                     <!-- add color to each policy -->
                     {% for promise in promises %}
-                    <tr class="promise {% if promise.status == 'In progress' %}warning{% endif %}{% if promise.status == 'Achieved' %}success{% endif %}{% if promise.status == 'Broken' %}danger{% endif %}{% if promise.status == 'Compromised' %}compromised{% endif %}">
+                    <tr class="promise {% if promise.status == 'Em andamento' %}warning{% endif %}{% if promise.status == 'Cumprida' %}success{% endif %}{% if promise.status == 'Quebrada' %}danger{% endif %}{% if promise.status == 'Comprometida' %}compromised{% endif %}">
                         <td class="promise__id">{{ forloop.index }}.</td>
 
                         <!--
@@ -188,7 +188,7 @@ layout: page
                         </td> -->
                         <td class="promise__actions">
                             <!-- comment and twitter integration -->
-                            <a href="{{ site.url }}{{ promise.url | replace: 'https://trumptracker.github.io', '' }}"><i class="fa fa-chevron-right" aria-hidden="true"></i></a>
+                            <a href="{{ site.url }}{{ promise.url | replace: 'http://ntatenda.com', '' }}"><i class="fa fa-chevron-right" aria-hidden="true"></i></a>
 
                         </td>
                     </tr>
