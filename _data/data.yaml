@@ -32,57 +32,45 @@ statuses:
 
 Promessas:
     -
-        title: 'Propor uma Emenda Constitucional para impor limites de mandato a todos os membros do Congresso'
-        description: ''
-        url: 'https://trumptracker.github.io/propose-a-constitutional-amendment-to-impose-term-limits-on-all-members-of-congress/'
-        status: Quebrada
-        status_info: 'Esta promessa foi marcada como quebrada porque não foi cumprida dentro de 100 dias. Será marcado como comprometido quando executado.'
-        category: Primeiros 100 dias
+        title: 'Aumentar infra-estruturas hospitalares em Chiúre, Cabo Delgado'
+        description: 'Nenhuma infra-estrutura hospitalar foi construída no distrito de Chiúre de 2015 a 2017, segundo
+dados do Ministério da Saúde.'
+        url: '/propose-a-constitutional-amendment-to-impose-term-limits-on-all-members-of-congress/'
+        status: Não Iniciada
+        status_info: 'Dados fornecidos pelo Ministério da Saúde indicam que não existem infra-estruturas hospitalares construídas de 2015 a 2017. O Plano Quinquenal do Governo não prevê construção de infra-estruturas hospitalares no distrito de Chiúre no decurso do actual mandato de governação.'
+        category: Saúde
         tags:
-            - 'Contract with the American Voter - 100 Day Plan'
+            - ''
         comments:
-            - 'https://redd.it/5d4r8m'
-        sources:
-            - 'https://web.archive.org/web/20161101093508/https://www.donaldjtrump.com/press-releases/donald-j.-trump-delivers-groundbreaking-contract-for-the-american-vote1'
-            - 'https://youtu.be/4t1xR9U6IAU?t=44s'
-            - 'https://web.archive.org/web/20161109222320/http://www.npr.org/2016/11/09/501451368/here-is-what-donald-trump-wants-to-do-in-his-first-100-days'
+            - ''
+        Fonte:
+            - 'Plano Quinquenal do Governo http://www.portaldogoverno.gov.mz/por/Governo/Documentos/Planos-e-Programas-de-Governacao/Plano-Quinquenal
     -
-        title: 'Institute a hiring freeze on all federal employees to reduce federal workforce through attrition'
+        title: 'Construir hospitais no distrito de Lalaua'
         description: 'Institute a hiring freeze on all federal employees to reduce federal workforce through attrition (exempting military, public safety, and public health)'
         url: 'https://trumptracker.github.io/institute-a-hiring-freeze-on-all-federal-employees-to-reduce-federal-workforce-through-attrition/'
-        status: Broken
-        status_info: 'This promise was marked as broken because it was not fulfilled within 100 days. It will be marked as compromised when it is executed.'
-        category: First 100 Days
+        status: Em Progresso
+        status_info: 'O Ministério da Saúde forneceu uma informação segundo a qual apenas foi construído o Centro de Saúde Rural de Namige no distrito de Lalaua de 2015 a 2017. Sendo que Filipe Nyusi prometeu construir hospitais (no plural), a promessa foi parcialmente cumprida. O Plano Quinquenal do Governo 2015-2019 não prevê construção de hospitais naquele distrito em particular.'
+        category: Saúde
         tags:
-            - 'Contract with the American Voter - 100 Day Plan'
+            - ''
         comments: 
-            - 'https://redd.it/5d7sm2'
+            - ''
         sources:
-            - 'https://web.archive.org/web/20161101093508/https://www.donaldjtrump.com/press-releases/donald-j.-trump-delivers-groundbreaking-contract-for-the-american-vote1'
-            - 'https://youtu.be/4t1xR9U6IAU?t=56s'
-            - 'https://web.archive.org/web/20161109222320/http://www.npr.org/2016/11/09/501451368/here-is-what-donald-trump-wants-to-do-in-his-first-100-days'
-            - 'https://web.archive.org/web/20170210171446/https://www.whitehouse.gov/the-press-office/2017/01/23/presidential-memorandum-regarding-hiring-freeze'
-            - 'https://web.archive.org/web/20170210171255/https://www.washingtonpost.com/news/powerpost/wp/2017/01/23/trump-freezes-federal-hiring/'
-            - 'https://web.archive.org/web/20170210172148/http://thehill.com/homenews/administration/315661-trump-imposes-freeze-on-federal-hiring'
-            - 'https://web.archive.org/web/20170210173704/http://www.attn.com/stories/14456/truth-about-trumps-hiring-freeze'
-            - 'https://www.scribd.com/document/344966998/OMB-Memo-on-Reforming-the-Federal-Government-and-Reducing-the-Federal-Civilian-Workforce'
-            - 'https://web.archive.org/web/20170412080116/http://www.npr.org/2017/04/12/523473051/trump-lifting-federal-hiring-freeze'
+            - 'https://www.youtube.com/watch?v=Zq_yvrf9Vhk'
     -
-        title: 'A requirement that for every new federal regulation, two existing regulations must be eliminated'
-        description: ''
-        url: 'https://trumptracker.github.io/a-requirement-that-for-every-new-federal-regulation-two-existing-regulations-must-be-eliminated/'
-        status: Achieved
-        status_info: ''
-        category: First 100 Days
+        title: 'Aumentar números de médicos no distrito de Vilanculos'
+        description: 'O número de médico passou de 9 em 2014 para 13 em 2017.'
+        url: '/a-requirement-that-for-every-new-federal-regulation-two-existing-regulations-must-be-eliminated/'
+        status: Cumprida
+        status_info: 'De acordo com o quinto anuário Estatístico sobre Recursos Humanos para a Saúde em Moçambique -2014, o distrito de Vínculos tinha nove médicos. Dados fornecidos pelo MISAU incam que o distrito conta com 13 médicos 2m 2017'
+        category: Saúde
         tags:
-            - 'Contract with the American Voter - 100 Day Plan'
+            - ''
         comments: 
-            - 'https://redd.it/5d7sm4'
+            - ''
         sources:
-            - 'https://web.archive.org/web/20161101093508/https://www.donaldjtrump.com/press-releases/donald-j.-trump-delivers-groundbreaking-contract-for-the-american-vote1'
-            - 'https://youtu.be/4t1xR9U6IAU?t=1m14s'
-            - 'https://web.archive.org/web/20161109222320/http://www.npr.org/2016/11/09/501451368/here-is-what-donald-trump-wants-to-do-in-his-first-100-days'
-            - 'https://web.archive.org/web/20170216225714/https://www.whitehouse.gov/the-press-office/2017/01/30/presidential-executive-order-reducing-regulation-and-controlling'
+            - 'https://www.youtube.com/watch?v=DBstkoDIkV0&amp;t=312s'
     -
         title: 'A 5-year ban on White House and Congressional officials becoming lobbyists after they leave government service'
         description: ''
