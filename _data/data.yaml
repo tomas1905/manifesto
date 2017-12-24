@@ -35,7 +35,7 @@ promises:
         title: 'Propor uma emenda constitucional para impor limite de mandato'
         description: ''
         url: 'https://trumptracker.github.io/propose-a-constitutional-amendment-to-impose-term-limits-on-all-members-of-congress/'
-        status: Broken
+        status: Achieved
         status_info: 'This promise was marked as broken because it was not fulfilled within 100 days. It will be marked as compromised when it is executed.'
         category: First 100 Days
         tags:
