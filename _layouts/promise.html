@@ -11,13 +11,13 @@ permalink: /:basename/
       <a class="btn twitter" href="https://twitter.com/share?url=https://ntatenda.com/manifesto/&text={{ tweettext }}&hashtags=Ntatenda" target="_blank"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i> Tweet</a>
     </div>
     <div class="col-md-12">
-	  <h3>Category: {{ page.category }}</h3>
-      <h3>Status: <span style='color: {{ page.statuscolor }};'>{{ page.status }}</span></h3>
+	  <h3>Categoria: {{ page.category }}</h3>
+      <h3>Ponto de Situação: <span style='color: {{ page.statuscolor }};'>{{ page.status }}</span></h3>
 	  {{ page.status_info }}
 	  <p>{{ page.description }}</p>
     </div>
     <div class="col-md-12">
-      <h3>Sources:</h3>
+      <h3>Fontes:</h3>
 	  <ul class='sources'>
 	  </ul>
     </div>
@@ -27,7 +27,7 @@ permalink: /:basename/
 		  <a target="_blank" href="{{ page.comments }}" class="btn btn-primary placecomment"><i class="fa fa-pencil" aria-hidden="true"></i> Deixar um comentário</a>
 	  <p class='commentcount'></p>
 	  <div class="loader"></div>
-	  <div class="panel-group"><div class="noscript">Please enable Javascript and disable any adblocker to view comments.</div></div>
+	  <div class="panel-group"><div class="noscript">Ative o Javascript e desative qualquer adblocker para ver os comentários.</div></div>
    </div>
 </div>
 <script>var redditid = '{{ page.commentsid }}';</script>
