@@ -1,4 +1,4 @@
-# Status has five options: Not started, In progress, Achieved, Broken, and Compromised
+# Status has five options: Não Iniciada, Em Progresso, Cumprida, Quebrada, and Comprometida
 
 icons:
     First 100 Days: clock-o
@@ -14,19 +14,19 @@ icons:
     Education: graduation-cap
 
 statuses:
-    Not started:
+    Não Iniciada:
         color: info
         icon: hourglass-start
-    In progress:
+    Em Progresso:
         color: warning
         icon: cogs
-    Achieved:
+    Cumprida:
         color: success
         icon: check-circle-o
-    Broken:
+    Quebrada:
         color: danger
         icon: ban
-    Compromised:
+    Comprometida:
         color: compromised
         icon: handshake-o
 
@@ -34,14 +34,14 @@ promises:
     -
         title: 'Promete construir a barragem do Mapai na província de Gaza'
         description: ''
-        url: '/propose-a-constitutional-amendment-to-impose-term-limits-on-all-members-of-congress/'
-        status: Broken
+        url: 'propose-a-constitutional-amendment-to-impose-term-limits-on-all-members-of-congress/'
+        status: Quebrada
         status_info: 'Segundo Hélio Banze, director geral da Administração Regional das Águas do Sul (ARA-Sul) a construção da barragem só poderá iniciar depois de 2019, período fora do actual mandato de governação. No memento estão em curso estudos de viabilidade previstos para terminar em 2017. Depois do término dos estudos o governo irá iniciar a mobilizar financiamento para a sua construção.'
         category: First 100 Days
         tags:
             - 'Contract with the American Voter - 100 Day Plan'
         comments:
-            - 'https://redd.it/5d4r8m'
+            - ''
         sources:
             - 'https://www.youtube.com/watch?v=patk05i0bUg'
             - 'https://web.archive.org/web/20161109222320/http://www.npr.org/2016/11/09/501451368/here-is-what-donald-trump-wants-to-do-in-his-first-100-days'
