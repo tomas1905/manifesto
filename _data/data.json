@@ -1,82 +1,99 @@
-# Status has five options: Não Iniciada, Em Progresso, Cumprida, Quebrada, and Comprometida
-
-icons:
-    Cultura: music
-    Economia: dollar
-    Ambiente: leaf
-    Infraestrutura: university
-    Segurança: fighter-jet
-    Saúde: heart
-    Educação: graduation-cap
-
-statuses:
-    Não Iniciada:
-        color: info
-        icon: hourglass-start
-    Em Progresso:
-        color: warning
-        icon: cogs
-    Cumprida:
-        color: success
-        icon: check-circle-o
-    Quebrada:
-        color: danger
-        icon: ban
-    Comprometida:
-        color: compromised
-        icon: handshake-o
-
-promises:
-    -
-        title: 'Propor uma emenda constitucional para impor limite de mandato'
-        description: ''
-        url: 'propose-a-constitutional-amendment-to-impose-term-limits-on-all-members-of-congress/'
-        status: Não Iniciada
-        status_info: 'This promise was marked as broken because it was not fulfilled within 100 days. It will be marked as compromised when it is executed.'
-        category: Educação
-        tags:
-            - 'Contract with the American Voter - 100 Day Plan'
-        comments:
-            - 'https://redd.it/5d7sm2'
-        sources:
-            - 'https://web.archive.org/web/20161101093508/https://www.donaldjtrump.com/press-releases/donald-j.-trump-delivers-groundbreaking-contract-for-the-american-vote1'
-            - 'https://youtu.be/4t1xR9U6IAU?t=44s'
-            - 'https://web.archive.org/web/20161109222320/http://www.npr.org/2016/11/09/501451368/here-is-what-donald-trump-wants-to-do-in-his-first-100-days'
-    -
-        title: 'Instituir uma nova medida de austeridade'
-        description: 'Institute a hiring freeze on all federal employees to reduce federal workforce through attrition (exempting military, public safety, and public health)'
-        url: 'https://trumptracker.github.io/institute-a-hiring-freeze-on-all-federal-employees-to-reduce-federal-workforce-through-attrition/'
-        status: Quebrada
-        status_info: 'This promise was marked as broken because it was not fulfilled within 100 days. It will be marked as compromised when it is executed.'
-        category: Saúde
-        tags:
-            - 'Contract with the American Voter - 100 Day Plan'
-        comments: 
-            - 'https://redd.it/5d7sm2'
-        sources:
-            - 'https://web.archive.org/web/20161101093508/https://www.donaldjtrump.com/press-releases/donald-j.-trump-delivers-groundbreaking-contract-for-the-american-vote1'
-            - 'https://youtu.be/4t1xR9U6IAU?t=56s'
-            - 'https://web.archive.org/web/20161109222320/http://www.npr.org/2016/11/09/501451368/here-is-what-donald-trump-wants-to-do-in-his-first-100-days'
-            - 'https://web.archive.org/web/20170210171446/https://www.whitehouse.gov/the-press-office/2017/01/23/presidential-memorandum-regarding-hiring-freeze'
-            - 'https://web.archive.org/web/20170210171255/https://www.washingtonpost.com/news/powerpost/wp/2017/01/23/trump-freezes-federal-hiring/'
-            - 'https://web.archive.org/web/20170210172148/http://thehill.com/homenews/administration/315661-trump-imposes-freeze-on-federal-hiring'
-            - 'https://web.archive.org/web/20170210173704/http://www.attn.com/stories/14456/truth-about-trumps-hiring-freeze'
-            - 'https://www.scribd.com/document/344966998/OMB-Memo-on-Reforming-the-Federal-Government-and-Reducing-the-Federal-Civilian-Workforce'
-            - 'https://web.archive.org/web/20170412080116/http://www.npr.org/2017/04/12/523473051/trump-lifting-federal-hiring-freeze'
-    -
-        title: 'A requirement that for every new federal regulation, two existing regulations must be eliminated'
-        description: ''
-        url: 'https://trumptracker.github.io/a-requirement-that-for-every-new-federal-regulation-two-existing-regulations-must-be-eliminated/'
-        status: Em Progresso
-        status_info: ''
-        category: Infraestrutura
-        tags:
-            - 'Contract with the American Voter - 100 Day Plan'
-        comments: 
-            - 'https://redd.it/5d7sm4'
-        sources:
-            - 'https://web.archive.org/web/20161101093508/https://www.donaldjtrump.com/press-releases/donald-j.-trump-delivers-groundbreaking-contract-for-the-american-vote1'
-            - 'https://youtu.be/4t1xR9U6IAU?t=1m14s'
-            - 'https://web.archive.org/web/20161109222320/http://www.npr.org/2016/11/09/501451368/here-is-what-donald-trump-wants-to-do-in-his-first-100-days'
-            - 'https://web.archive.org/web/20170216225714/https://www.whitehouse.gov/the-press-office/2017/01/30/presidential-executive-order-reducing-regulation-and-controlling'
-       
+{
+	"icons": {
+		"Governação": "handshake-o",
+		"Economia": "dollar",
+		"Ambiente": "leaf",
+		"Infraestrutura": "university",
+		"Segurança": "fighter-jet",
+		"Saúde": "heart",
+		"Educação": "graduation-cap",
+		"Emprego": "folder"
+	},
+	"statuses": {
+		"Não iniciada": {
+			"color": "info",
+			"icon": "hourglass-start"
+		},
+		"Em Progresso": {
+			"color": "warning",
+			"icon": "cogs"
+		},
+		"Cumprida": {
+			"color": "success",
+			"icon": "check-circle-o"
+		},
+		"Quebrada": {
+			"color": "danger",
+			"icon": "ban"
+		},
+		"Comprometida": {
+			"color": "compromised",
+			"icon": "handshake-o"
+		}
+	},
+	"promises": [
+		{
+			"title": "Promete construir a barragem do Mapai na província de Gaza.",
+			"description": "",
+			"url": "propose-a-constitutional-amendment-to-impose-term-limits-on-all-members-of-congress/",
+			"status": "Quebrada",
+			"status_info": "Não foi construída a barragem do Mapai. Apenas estão em curso estudos de viabilidade e a previsão do inicio das obras está para depois de 2019, fora do actual mandato de governação.",
+			"category": "Infraestrutura",
+			"tags": [
+				"Gaza, Guija"
+			],
+			"comments": null,
+			"sources": [
+				"https://www.youtube.com/watch?v=patk05i0bUg"
+			]
+		},
+		{
+			"title": "Promete criar o fundo de desenvolvimento e equidade.",
+			"description": "O fundo vai incentivar a criação de empregos",
+			"url": "https://trumptracker.github.io/institute-a-hiring-freeze-on-all-federal-employees-to-reduce-federal-workforce-through-attrition/",
+			"status": "Não iniciada",
+			"status_info": "Não foi criado o fundo de desenvolvimento e equidade para a área de emprego de 2015 à 2017.",
+			"category": "Emprego",
+			"tags": [
+				"Empregabilidade"
+			],
+			"comments": [
+				"https://redd.it/5d7sm2"
+			],
+			"sources": [
+				"https://www.youtube.com/watch?v=kO6S6IhE16s&amp;t=16s"
+			]
+		},
+		{
+			"title": "Garantir acesso a educação aos filhos dos agentes da polícia",
+			"description": "Existem memorandos de entendimento entre o Ministério do Interior e instituições do ensino públicas para garantir a educação dos órfãos e filhos dos polícias, funcionários do quadro técnico comum nos diferentes níveis de ensino. Segundo as informações do Ministério do Interior de 2015-2017, foram enquadrados 408 orfãos e filhos dos polícias, funcionários do quadro técnico comum e agentes do Estado nos estabelecimentos de ensino desde o primário até superior. A maioria das bolsas é destinada para o ensino superior (96%). Entretanto, a província de Maputo beneficiou em 69% das bolsas comparativamente com as restantes províncias.",
+			"url": "https://trumptracker.github.io/institute-a-hiring-freeze-on-all-federal-employees-to-reduce-federal-workforce-through-attrition/",
+			"status": "Em progresso",
+			"status_info": "Existem memorandos de entendimento entre o Ministério do Interior e instituições do ensino públicas",
+			"category": "Governação",
+			"tags": [
+				"Polícias"
+			],
+			"comments": null,
+			"sources": [
+				"https://www.youtube.com/watch?v=_xIFG-7Kpn8&amp;t=43s"
+			]
+		},
+		{
+			"title": "Desenhar uma política do primeiro emprego.",
+			"description": "",
+			"url": "propose-a-constitutional-amendment-to-impose-term-limits-on-all-members-of-congress/",
+			"status": "Não iniciada",
+			"status_info": "Não existe nenhuma política do primeiro emprego em Moçambique.",
+			"category": "Emprego",
+			"tags": [
+				"Emprego"
+			],
+			"comments": null,
+			"sources": [
+				"https://www.youtube.com/watch?v=patk05i0bUg"
+			]
+		},
+		null
+	]
+}
