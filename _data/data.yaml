@@ -1,17 +1,13 @@
-# Status has five options: Not started, In progress, Achieved, Broken, and Compromised
+# Status has five options: Não Iniciada, Em Progresso, Cumprida, Quebrada, and Comprometida
 
 icons:
-    First 100 Days: clock-o
-    Culture: music
-    Economy: dollar
-    Environment: leaf
-    Government: university
-    Immigration: suitcase
-    Indigenous: users
-    Security: fighter-jet
-    Health: heart
-    World: globe
-    Education: graduation-cap
+    Cultura: music
+    Economia: dollar
+    Ambiente: leaf
+    Infraestrutura: university
+    Segurança: fighter-jet
+    Saúde: heart
+    Educação: graduation-cap
 
 statuses:
     Not started:
@@ -34,10 +30,10 @@ promises:
     -
         title: 'Propor uma emenda constitucional para impor limite de mandato'
         description: ''
-        url: 'https://trumptracker.github.io/propose-a-constitutional-amendment-to-impose-term-limits-on-all-members-of-congress/'
+        url: 'propose-a-constitutional-amendment-to-impose-term-limits-on-all-members-of-congress/'
         status: Achieved
         status_info: 'This promise was marked as broken because it was not fulfilled within 100 days. It will be marked as compromised when it is executed.'
-        category: First 100 Days
+        category: Educação
         tags:
             - 'Contract with the American Voter - 100 Day Plan'
         comments:
