@@ -147,7 +147,7 @@ layout: page
                     <tbody class="list">
                     <!-- add color to each policy -->
                     {% for promise in promises %}
-                    <tr class="promise {% if promise.status == 'Em andamento' %}warning{% endif %}{% if promise.status == 'Cumprida' %}success{% endif %}{% if promise.status == 'Quebrada' %}danger{% endif %}{% if promise.status == 'Comprometida' %}compromised{% endif %}">
+                    <tr class="promise {% if promise.status == 'In progress' %}warning{% endif %}{% if promise.status == 'Achieved' %}success{% endif %}{% if promise.status == 'Broken' %}danger{% endif %}{% if promise.status == 'Compromised' %}compromised{% endif %}">
                         <td class="promise__id">{{ forloop.index }}.</td>
 
                         <!--
