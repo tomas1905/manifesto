@@ -10,19 +10,19 @@ icons:
     Educação: graduation-cap
 
 statuses:
-    Not started:
+    Não Iniciada:
         color: info
         icon: hourglass-start
-    In progress:
+    Em Progresso:
         color: warning
         icon: cogs
-    Achieved:
+    Cumprida:
         color: success
         icon: check-circle-o
-    Broken:
+    Quebrada:
         color: danger
         icon: ban
-    Compromised:
+    Comprometida:
         color: compromised
         icon: handshake-o
 
@@ -31,24 +31,24 @@ promises:
         title: 'Propor uma emenda constitucional para impor limite de mandato'
         description: ''
         url: 'propose-a-constitutional-amendment-to-impose-term-limits-on-all-members-of-congress/'
-        status: Achieved
+        status: Cumprida
         status_info: 'This promise was marked as broken because it was not fulfilled within 100 days. It will be marked as compromised when it is executed.'
         category: Educação
         tags:
             - 'Contract with the American Voter - 100 Day Plan'
         comments:
-            - 'https://redd.it/5d4r8m'
+            - ''
         sources:
             - 'https://web.archive.org/web/20161101093508/https://www.donaldjtrump.com/press-releases/donald-j.-trump-delivers-groundbreaking-contract-for-the-american-vote1'
             - 'https://youtu.be/4t1xR9U6IAU?t=44s'
             - 'https://web.archive.org/web/20161109222320/http://www.npr.org/2016/11/09/501451368/here-is-what-donald-trump-wants-to-do-in-his-first-100-days'
     -
-        title: 'Institute a hiring freeze on all federal employees to reduce federal workforce through attrition'
+        title: 'Instituir uma nova medida de austeridade'
         description: 'Institute a hiring freeze on all federal employees to reduce federal workforce through attrition (exempting military, public safety, and public health)'
         url: 'https://trumptracker.github.io/institute-a-hiring-freeze-on-all-federal-employees-to-reduce-federal-workforce-through-attrition/'
         status: Broken
         status_info: 'This promise was marked as broken because it was not fulfilled within 100 days. It will be marked as compromised when it is executed.'
-        category: First 100 Days
+        category: Saúde
         tags:
             - 'Contract with the American Voter - 100 Day Plan'
         comments: 
