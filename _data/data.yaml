@@ -32,7 +32,7 @@ statuses:
 
 promises:
     -
-        title: 'Propose a Constitutional Amendment to impose term limits on all members of Congress'
+        title: 'Propor uma emenda constitucional para impor limite de mandato'
         description: ''
         url: 'https://trumptracker.github.io/propose-a-constitutional-amendment-to-impose-term-limits-on-all-members-of-congress/'
         status: Broken
