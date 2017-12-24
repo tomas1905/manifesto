@@ -37,7 +37,7 @@ promises:
         tags:
             - 'Contract with the American Voter - 100 Day Plan'
         comments:
-            - ''
+            - 'https://redd.it/5d7sm2'
         sources:
             - 'https://web.archive.org/web/20161101093508/https://www.donaldjtrump.com/press-releases/donald-j.-trump-delivers-groundbreaking-contract-for-the-american-vote1'
             - 'https://youtu.be/4t1xR9U6IAU?t=44s'
@@ -46,7 +46,7 @@ promises:
         title: 'Instituir uma nova medida de austeridade'
         description: 'Institute a hiring freeze on all federal employees to reduce federal workforce through attrition (exempting military, public safety, and public health)'
         url: 'https://trumptracker.github.io/institute-a-hiring-freeze-on-all-federal-employees-to-reduce-federal-workforce-through-attrition/'
-        status: Broken
+        status: Quebrada
         status_info: 'This promise was marked as broken because it was not fulfilled within 100 days. It will be marked as compromised when it is executed.'
         category: Saúde
         tags:
@@ -67,9 +67,9 @@ promises:
         title: 'A requirement that for every new federal regulation, two existing regulations must be eliminated'
         description: ''
         url: 'https://trumptracker.github.io/a-requirement-that-for-every-new-federal-regulation-two-existing-regulations-must-be-eliminated/'
-        status: Achieved
+        status: Em Progresso
         status_info: ''
-        category: First 100 Days
+        category: Infraestrutura
         tags:
             - 'Contract with the American Voter - 100 Day Plan'
         comments: 
