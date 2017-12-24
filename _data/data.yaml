@@ -8,8 +8,7 @@ icons:
     Segurança: fighter-jet
     Saúde: heart
     Educação: graduation-cap
-    Emprego: folder
-
+    
 statuses:
     Não iniciada:
         color: info
