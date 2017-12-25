@@ -16,19 +16,19 @@
 			"icon": "hourglass-start"
 		},
 		"Em progresso": {
-			"color": "warning",
+			"color": "#fcf8e3",
 			"icon": "cogs"
 		},
 		"Cumprida": {
-			"color": "success",
+			"color": "#3c763d",
 			"icon": "check-circle-o"
 		},
 		"Quebrada": {
-			"color": "danger",
+			"color": "#a94442r",
 			"icon": "ban"
 		},
 		"Comprometida": {
-			"color": "compromised",
+			"color": "#4e5459",
 			"icon": "handshake-o"
 		}
 	},
