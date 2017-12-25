@@ -1,32 +1,30 @@
-# Status has five options: Not started, In progress, Achieved, Broken, and Compromised
+# Status has five options: Não iniciada, Em progresso, Cumprida, Quebrada, and Comprometida
 
 icons:
-    First 100 Days: clock-o
-    Culture: music
-    Economy: dollar
-    Environment: leaf
-    Government: university
-    Immigration: suitcase
-    Indigenous: users
-    Security: fighter-jet
-    Health: heart
-    World: globe
-    Education: graduation-cap
+    Economia: dollar
+    Ambiente: leaf
+    Infraestrutura: university
+    Emprego: suitcase
+    Governação: users
+    Segurança: fighter-jet
+    Saúde: heart
+    Agricultura: globe
+    Educação: graduation-cap
 
 statuses:
-    Not started:
+    Não iniciada:
         color: info
         icon: hourglass-start
-    In progress:
+    Em progresso:
         color: warning
         icon: cogs
-    Achieved:
+    Cumprida:
         color: success
         icon: check-circle-o
-    Broken:
+    Quebrada:
         color: danger
         icon: ban
-    Compromised:
+    Comprometida:
         color: compromised
         icon: handshake-o
 
@@ -35,9 +33,9 @@ promises:
         title: 'Propose a Constitutional Amendment to impose term limits on all members of Congress'
         description: ''
         url: 'https://trumptracker.github.io/propose-a-constitutional-amendment-to-impose-term-limits-on-all-members-of-congress/'
-        status: Broken
+        status: Cumprida
         status_info: 'This promise was marked as broken because it was not fulfilled within 100 days. It will be marked as compromised when it is executed.'
-        category: First 100 Days
+        category: Economia
         tags:
             - 'Contract with the American Voter - 100 Day Plan'
         comments:
@@ -50,9 +48,9 @@ promises:
         title: 'Institute a hiring freeze on all federal employees to reduce federal workforce through attrition'
         description: 'Institute a hiring freeze on all federal employees to reduce federal workforce through attrition (exempting military, public safety, and public health)'
         url: 'https://trumptracker.github.io/institute-a-hiring-freeze-on-all-federal-employees-to-reduce-federal-workforce-through-attrition/'
-        status: Broken
+        status: Não iniciada
         status_info: 'This promise was marked as broken because it was not fulfilled within 100 days. It will be marked as compromised when it is executed.'
-        category: First 100 Days
+        category: Economia
         tags:
             - 'Contract with the American Voter - 100 Day Plan'
         comments: 
@@ -71,9 +69,9 @@ promises:
         title: 'A requirement that for every new federal regulation, two existing regulations must be eliminated'
         description: ''
         url: 'https://trumptracker.github.io/a-requirement-that-for-every-new-federal-regulation-two-existing-regulations-must-be-eliminated/'
-        status: Achieved
+        status: Cumprida
         status_info: ''
-        category: First 100 Days
+        category: Economia
         tags:
             - 'Contract with the American Voter - 100 Day Plan'
         comments: 
@@ -87,9 +85,9 @@ promises:
         title: 'A 5-year ban on White House and Congressional officials becoming lobbyists after they leave government service'
         description: ''
         url: 'https://trumptracker.github.io/a-5year-ban-on-white-house-and-congressional-officials-becoming-lobbyists-after-they-leave-government/'
-        status: Compromised
+        status: Quebrada
         status_info: ''
-        category: First 100 Days
+        category: Saúde
         tags:
             - 'Contract with the American Voter - 100 Day Plan'
         comments: 
@@ -106,9 +104,9 @@ promises:
         title: 'A lifetime ban on White House officials lobbying on behalf of a foreign government'
         description: ''
         url: 'https://trumptracker.github.io/a-lifetime-ban-on-white-house-officials-lobbying-on-behalf-of-a-foreign-government/'
-        status: Achieved
+        status: Quebrada
         status_info: ''
-        category: First 100 Days
+        category: Infraestrutura
         tags:
             - 'Contract with the American Voter - 100 Day Plan'
         comments: 
@@ -122,9 +120,9 @@ promises:
         title: 'A complete ban on foreign lobbyists raising money for American elections.'
         description: ''
         url: 'https://trumptracker.github.io/a-complete-ban-on-foreign-lobbyists-raising-money-for-american-elections/'
-        status: Broken
+        status: Em progresso
         status_info: 'This promise was marked as broken because it was not fulfilled within 100 days. It will be marked as compromised when it is executed.'
-        category: First 100 Days
+        category: Segurança
         tags:
             - 'Contract with the American Voter - 100 Day Plan'
         comments: 
@@ -137,9 +135,9 @@ promises:
         title: 'Donald Trump will refuse the $400,000 annual president''s salary or only take $1'
         description: ''
         url: 'https://trumptracker.github.io/donald-trump-will-refuse-the-400000-annual-presidents-salary-or-only-take-1/'
-        status: Achieved
+        status: Não iniciada
         status_info: 'While Trump still received the money, he donated everything to the National Park Service, which is arguably even better than refusing the money.'
-        category: First 100 Days
+        category: Agricultura
         tags:
             - 'Contract with the American Voter - 100 Day Plan'
         comments: 
@@ -156,9 +154,9 @@ promises:
         title: 'I will announce my intention to renegotiate NAFTA or withdraw from the deal under Article 2205'
         description: ''
         url: 'https://trumptracker.github.io/i-will-announce-my-intention-to-renegotiate-nafta-or-withdraw-from-the-deal-under-article-2205/'
-        status: Achieved
+        status: Em progresso
         status_info: ''
-        category: First 100 Days
+        category: Segurança
         tags:
             - 'On the same day, I will begin taking the following 7 actions to protect American workers:'
         comments: 
@@ -173,9 +171,9 @@ promises:
         title: 'I will announce our withdrawal from the Trans-Pacific Partnership'
         description: ''
         url: 'https://trumptracker.github.io/i-will-announce-our-withdrawal-from-the-transpacific-partnership/'
-        status: Achieved
+        status: Cumprida
         status_info: ''
-        category: First 100 Days
+        category: Ambiente
         tags:
             - 'On the same day, I will begin taking the following 7 actions to protect American workers:'
         comments: 
@@ -190,9 +188,9 @@ promises:
         title: 'I will direct my Secretary of the Treasury to label China a currency manipulator.'
         description: 'Also adopting a "zero tolerance policy on intellectual property theft and forced technology transfer" and cracking down on China''s "lax labor and environmental standards".'
         url: 'https://trumptracker.github.io/i-will-direct-my-secretary-of-the-treasury-to-label-china-a-currency-manipulator/'
-        status: Broken
+        status: Cumprida
         status_info: 'This promise was marked as broken because it was not fulfilled within 100 days. It will be marked as compromised when it is executed.'
-        category: First 100 Days
+        category: Educação
         tags:
             - 'On the same day, I will begin taking the following 7 actions to protect American workers:'
         comments: 
@@ -209,9 +207,9 @@ promises:
         title: 'I will direct the Secretary of Commerce and U.S. Trade Representative to identify all foreign trading abuses that unfairly impact American workers'
         description: 'I will direct the Secretary of Commerce and U.S. Trade Representative to identify all foreign trading abuses that unfairly impact American workers and direct them to use every tool under American and international law to end those abuses immediately'
         url: 'https://trumptracker.github.io/i-will-direct-the-secretary-of-commerce-and-us-trade-representative-to-identify-all-foreign-trading-a/'
-        status: Broken
+        status: Em progresso
         status_info: 'This promise was marked as broken because it was not fulfilled within 100 days. It will be marked as compromised when it is executed.'
-        category: First 100 Days
+        category: Ambiente
         tags:
             - 'On the same day, I will begin taking the following 7 actions to protect American workers:'
         comments: 
@@ -224,9 +222,9 @@ promises:
         title: 'I will lift the restrictions on the production of $50 trillion dollars'' worth of job-producing American energy reserves, including shale, oil, natural gas and clean coal.'
         description: ''
         url: 'https://trumptracker.github.io/i-will-lift-the-restrictions-on-the-production-of-50-trillion-dollars-worth-of-jobproducing-american-/'
-        status: Broken
+        status: Quebrada
         status_info: 'This promise was marked as broken because it was not fulfilled within 100 days. It will be marked as compromised when it is executed.'
-        category: First 100 Days
+        category: Ambiente
         tags:
             - 'On the same day, I will begin taking the following 7 actions to protect American workers:'
         comments: 
@@ -246,9 +244,9 @@ promises:
         title: 'Lift the Obama-Clinton roadblocks and allow vital energy infrastructure projects, like the Keystone Pipeline, to move forward'
         description: ''
         url: 'https://trumptracker.github.io/lift-the-obamaclinton-roadblocks-and-allow-vital-energy-infrastructure-projects-like-the-keystone-pip/'
-        status: Achieved
+        status: Cumprida
         status_info: ''
-        category: First 100 Days
+        category: Infraestrutura
         tags:
             - 'On the same day, I will begin taking the following 7 actions to protect American workers:'
         comments: 
@@ -265,9 +263,9 @@ promises:
         title: 'Cancel billions in payments to U.N. climate change programs and use the money to fix America''s water and environmental infrastructure'
         description: ''
         url: 'https://trumptracker.github.io/cancel-billions-in-payments-to-un-climate-change-programs-and-use-the-money-to-fix-americas-water-and/'
-        status: Compromised
+        status: Comprometida
         status_info: 'While the first promise was achieved, the second was broken.'
-        category: First 100 Days
+        category: Agricultura
         tags:
             - 'On the same day, I will begin taking the following 7 actions to protect American workers:'
         comments: 
@@ -281,9 +279,9 @@ promises:
         title: 'Cancel every unconstitutional executive action, memorandum and order issued by President Obama'
         description: ''
         url: 'https://trumptracker.github.io/cancel-every-unconstitutional-executive-action-memorandum-and-order-issued-by-president-obama/'
-        status: Broken
+        status: Cumprida
         status_info: 'This promise was marked as broken because it was not fulfilled within 100 days. It will be marked as compromised when it is executed.'
-        category: First 100 Days
+        category: Infraestrutura
         tags:
             - 'Additionally, on the first day, I will take the following five actions to restore security and the constitutional rule of law:'
         comments: 
@@ -296,9 +294,9 @@ promises:
         title: 'Begin the process of selecting a replacement for Justice Scalia from one of the 20 judges on my list, who will uphold and defend the Constitution of the United States'
         description: ''
         url: 'https://trumptracker.github.io/begin-the-process-of-selecting-a-replacement-for-justice-scalia-from-one-of-the-20-judges-on-my-list-/'
-        status: Achieved
+        status: Em progresso
         status_info: ''
-        category: First 100 Days
+        category: Economia
         tags:
             - 'Additionally, on the first day, I will take the following five actions to restore security and the constitutional rule of law:'
         comments: 
@@ -312,9 +310,9 @@ promises:
         title: 'Cancel all federal funding to Sanctuary Cities'
         description: ''
         url: 'https://trumptracker.github.io/cancel-all-federal-funding-to-sanctuary-cities/'
-        status: Broken
+        status: Quebrada
         status_info: 'This promise was marked as broken because it was not fulfilled within 100 days. It will be marked as compromised when it is executed.'
-        category: First 100 Days
+        category: Saúde
         tags:
             - 'Additionally, on the first day, I will take the following five actions to restore security and the constitutional rule of law:'
         comments: 
@@ -329,9 +327,9 @@ promises:
         title: 'Cancel visas to foreign countries that won''t take [criminal illegal immigrants] back'
         description: ''
         url: 'https://trumptracker.github.io/cancel-visas-to-foreign-countries-that-wont-take-criminal-illegal-immigrants-back/'
-        status: Broken
+        status: Cumprida
         status_info: 'This promise was marked as broken because it was not fulfilled within 100 days. It will be marked as compromised when it is executed.'
-        category: First 100 Days
+        category: Agricultura
         tags:
             - 'Additionally, on the first day, I will take the following five actions to restore security and the constitutional rule of law:'
         comments: 
