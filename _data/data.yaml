@@ -70,24 +70,18 @@ promises:
         sources:
             - 'https://www.youtube.com/watch?v=_xIFG-7Kpn8&amp;t=43s'
     -
-        title: 'A 5-year ban on White House and Congressional officials becoming lobbyists after they leave government service'
-        description: ''
-        url: 'https://trumptracker.github.io/a-5year-ban-on-white-house-and-congressional-officials-becoming-lobbyists-after-they-leave-government/'
-        status: Quebrada
+        title: '“Estamos para desenhar uma política do primeiro emprego”. '
+        description: 'A politica vai permitir aos jovens com formação,mas sem experiencia ter um emprego ou criar o próprio'
+        url: 'estamos-para-desenhar-uma-politica-do-primeiro-emprego'
+        status: Não iniciada
         status_info: ''
-        category: Saúde
+        category: Emprego
         tags:
-            - 'Contract with the American Voter - 100 Day Plan'
+            - ''
         comments: 
-            - 'https://redd.it/5d7sm7'
+            - ''
         sources:
-            - 'https://web.archive.org/web/20161101093508/https://www.donaldjtrump.com/press-releases/donald-j.-trump-delivers-groundbreaking-contract-for-the-american-vote1'
-            - 'https://youtu.be/4t1xR9U6IAU?t=1m27s'
-            - 'https://web.archive.org/web/20161109222320/http://www.npr.org/2016/11/09/501451368/here-is-what-donald-trump-wants-to-do-in-his-first-100-days'
-            - 'https://web.archive.org/web/20170210173923/https://www.youtube.com/watch?v=csZNKadILk0'
-            - 'https://www.youtube.com/watch?v=csZNKadILk0'
-            - 'https://web.archive.org/web/20170210173822/https://www.whitehouse.gov/the-press-office/2017/01/28/executive-order-ethics-commitments-executive-branch-appointees'
-            - 'https://web.archive.org/web/20170215210736/http://www.politifact.com/truth-o-meter/promises/trumpometer/promise/1442/enact-5-year-ban-white-house-and-congressional-off/'
+            - 'https://www.youtube.com/watch?v=kO6S6IhE16s&amp;t=16s'
     -
         title: 'A lifetime ban on White House officials lobbying on behalf of a foreign government'
         description: ''
