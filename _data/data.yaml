@@ -30,20 +30,19 @@ statuses:
 
 promises:
     -
-        title: 'Propose a Constitutional Amendment to impose term limits on all members of Congress'
+        title: 'Construção da Barregem de Mapai'
         description: ''
-        url: 'https://trumptracker.github.io/propose-a-constitutional-amendment-to-impose-term-limits-on-all-members-of-congress/'
-        status: Cumprida
-        status_info: 'This promise was marked as broken because it was not fulfilled within 100 days. It will be marked as compromised when it is executed.'
-        category: Economia
+        url: 'construcao-da-baragem-de-mapai-em-gaza.html'
+        status: Quebrada
+        status_info: 'Não foi construída a barragem do Mapai. Apenas estão em curso estudos de viabilidade e a previsãodo inicio das obras está para depois de 2019, fora do actual mandato de governação.'
+        category: Infraestrutura
         tags:
-            - 'Contract with the American Voter - 100 Day Plan'
+            - 'Gaza'
         comments:
-            - 'https://redd.it/5d4r8m'
+            - ''
         sources:
-            - 'https://web.archive.org/web/20161101093508/https://www.donaldjtrump.com/press-releases/donald-j.-trump-delivers-groundbreaking-contract-for-the-american-vote1'
-            - 'https://youtu.be/4t1xR9U6IAU?t=44s'
-            - 'https://web.archive.org/web/20161109222320/http://www.npr.org/2016/11/09/501451368/here-is-what-donald-trump-wants-to-do-in-his-first-100-days'
+            - 'https://www.youtube.com/watch?v=patk05i0bUg'
+            
     -
         title: 'Institute a hiring freeze on all federal employees to reduce federal workforce through attrition'
         description: 'Institute a hiring freeze on all federal employees to reduce federal workforce through attrition (exempting military, public safety, and public health)'
