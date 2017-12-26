@@ -1,38 +1,4 @@
-{
-	"icons": {
-		"Economia": "dollar",
-		"Ambiente": "leaf",
-		"Infraestrutura": "university",
-		"Emprego": "suitcase",
-		"Governação": "users",
-		"Segurança": "fighter-jet",
-		"Saúde": "heart",
-		"Agricultura": "globe",
-		"Educação": "graduation-cap"
-	},
-	"statuses": {
-		"Não iniciada": {
-			"color": "info",
-			"icon": "hourglass-start"
-		},
-		"Em progresso": {
-			"color": "warning",
-			"icon": "cogs"
-		},
-		"Cumprida": {
-			"color": "success",
-			"icon": "check-circle-o"
-		},
-		"Quebrada": {
-			"color": "danger",
-			"icon": "ban"
-		},
-		"Comprometida": {
-			"color": "compromised",
-			"icon": "handshake-o"
-		}
-	},
-	"promises": [
+{"icons":{"Economia":"dollar","Ambiente":"leaf","Infraesrutura":"university","Emprego":"suitcase","Governação":"users","Segurança":"fighter-jet","Saúde":"heart","Agricultura":"globe","Educação":"graduation-cap"},"statuses":{"Não iniciada":{"color":"info","icon":"hourglass-start"},"Em progresso":{"color":"warning","icon":"cogs"},"Cumprida":{"color":"success","icon":"check-circle-o"},"Quebrada":{"color":"danger","icon":"ban"},"Comprometida":{"color":"compromised","icon":"handshake-o"}},"promises": [
 		{
 			"title": "Construção da Barregem de Mapai",
 			"description": "",
