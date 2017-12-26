@@ -96,20 +96,18 @@ promises:
         sources:
             - 'https://www.youtube.com/watch?v=DBstkoDIkV0&amp;t=312s'
     -
-        title: 'A complete ban on foreign lobbyists raising money for American elections.'
+        title: 'Aumentar infra-estruturas hospitalares em Chiúre, Cabo Delgado.'
         description: ''
-        url: 'https://trumptracker.github.io/a-complete-ban-on-foreign-lobbyists-raising-money-for-american-elections/'
-        status: Em progresso
-        status_info: 'This promise was marked as broken because it was not fulfilled within 100 days. It will be marked as compromised when it is executed.'
-        category: Segurança
+        url: 'aumentar-infra-estruturas-hospitalares-em-chiure.html'
+        status: Não iniciada
+        status_info: 'Nenhuma infra-estrutura hospitalar foi construída no distrito de Chiúre de 2015 a 2017, segundo dados do Ministério da Saúde.'
+        category: Saúde
         tags:
-            - 'Contract with the American Voter - 100 Day Plan'
+            - 'Cabo Delgado'
         comments: 
-            - 'https://redd.it/5d7smb'
+            - ''
         sources:
-            - 'https://web.archive.org/web/20161101093508/https://www.donaldjtrump.com/press-releases/donald-j.-trump-delivers-groundbreaking-contract-for-the-american-vote1'
-            - 'https://youtu.be/4t1xR9U6IAU?t=1m51s'
-            - 'https://web.archive.org/web/20161109222320/http://www.npr.org/2016/11/09/501451368/here-is-what-donald-trump-wants-to-do-in-his-first-100-days'
+            - ''
     -
         title: 'Donald Trump will refuse the $400,000 annual president''s salary or only take $1'
         description: ''
