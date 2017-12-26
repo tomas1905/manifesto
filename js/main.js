@@ -73,7 +73,7 @@
     $facets.on('click', function(e) {
 
       var facet = $(this).data('list-facet'); // ie 'js-promise-category'
-      var value = $(this).data('facet-value'); // ie 'Culture'
+      var value = $(this).data('facet-value'); // ie 'Economia'
       var isSingle = !!$(this).data('select-single'); // ie true/false for if there can only be one of this filter
 
       // Single-select categories should have their active state wiped
