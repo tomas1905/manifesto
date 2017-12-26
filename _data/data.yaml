@@ -98,7 +98,7 @@ promises:
     -
         title: 'Aumentar infra-estruturas hospitalares em Chiúre, Cabo Delgado.'
         description: ''
-        url: 'aumentar-infra-estruturas-hospitalares-em-chiure.html'
+        url: 'aumentar-infra-estruturas-hospitalares-em-chiure'
         status: Não iniciada
         status_info: 'Nenhuma infra-estrutura hospitalar foi construída no distrito de Chiúre de 2015 a 2017, segundo dados do Ministério da Saúde.'
         category: Saúde
@@ -109,24 +109,18 @@ promises:
         sources:
             - ''
     -
-        title: 'Donald Trump will refuse the $400,000 annual president''s salary or only take $1'
+        title: 'Promete construir hospitais no distrito de Lalaua'
         description: ''
-        url: 'https://trumptracker.github.io/donald-trump-will-refuse-the-400000-annual-presidents-salary-or-only-take-1/'
-        status: Não iniciada
-        status_info: 'While Trump still received the money, he donated everything to the National Park Service, which is arguably even better than refusing the money.'
-        category: Agricultura
+        url: 'construir-hospitais-no-distrito-de-Lalaua'
+        status: Em progresso
+        status_info: 'Apenas foi construído um centro de saúde rural de 2015 a 2017, segundo dados do Ministério da Saúde.'
+        category: Sade
         tags:
-            - 'Contract with the American Voter - 100 Day Plan'
+            - ''
         comments: 
-            - 'https://redd.it/5dny96'
+            - ''
         sources:
-            - 'https://youtu.be/56SxICbH1i8?t=3s'
-            - 'https://web.archive.org/web/20161109222320/http://www.npr.org/2016/11/09/501451368/here-is-what-donald-trump-wants-to-do-in-his-first-100-days'
-            - 'https://web.archive.org/web/20161111213432/http://www.cbsnews.com/news/did-donald-trump-say-hed-refuse-to-take-a-salary-as-president/'
-            - 'https://web.archive.org/web/20161128235648/https://www.washingtonpost.com/politics/i-will-give-you-everything-here-are-282-of-donald-trumps-campaign-promises/2016/11/24/01160678-b0f9-11e6-8616-52b15787add0_story.html'
-            - 'https://web.archive.org/web/20170126065832/http://www.politico.com/magazine/story/2016/11/donald-trump-salary-george-washington-214458'
-            - 'https://web.archive.org/web/20170314045248/https://thinkprogress.org/trump-salary-donation-promise-cdb0b78a7aab?gi=b3eb4ed916f7'
-            - 'https://web.archive.org/web/20170404190756/http://money.cnn.com/2017/04/03/news/trump-salary-national-parks/'
+            - 'https://www.youtube.com/watch?v=Zq_yvrf9Vhk'
     -
         title: 'I will announce my intention to renegotiate NAFTA or withdraw from the deal under Article 2205'
         description: ''
