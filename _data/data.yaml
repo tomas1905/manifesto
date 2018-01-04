@@ -30,94 +30,17 @@ statuses:
 
 promises:
     -
-        title: 'Construção da Barregem de Mapai'
+        title: 'Testing...'
         description: ''
-        url: 'construcao-da-baragem-de-mapai-em-gaza'
+        url: '#'
         status: Quebrada
-        status_info: 'Não foi construída a barragem do Mapai. Apenas estão em curso estudos de viabilidade e a previsãodo inicio das obras está para depois de 2019, fora do actual mandato de governação.'
+        status_info: '..'
         category: Infraestrutura
         tags:
             - 'Gaza'
         comments:
             - ''
         sources:
-            - 'https://www.youtube.com/watch?v=patk05i0bUg'
+            - ''
             
-    -
-        title: 'Vamos criar o fundo de desenvolvimento e equidade. O fundo vai incentivar a criação de empregos'
-        description: 'criação do fundo de desenvolvimento e equidade'
-        url: 'criar-o-fundo-de-desenvolvimento-e-equidade'
-        status: Não iniciada
-        status_info: 'Não foi criado o fundo de desenvolvimento e equidade para a área de emprego de 2015 a 2017.'
-        category: Emprego
-        tags:
-            - ''
-        comments: 
-            - ''
-        sources:
-            - 'https://www.youtube.com/watch?v=kO6S6IhE16s&amp;t=16s'
-    -
-        title: 'Garantir acesso a educação aos filhos dos agentes da políciaEtiqueta:'
-        description: 'Existem memorandos de entendimento entre o Ministério do Interior einstituições do ensino públicas para garantir a educação dos órfãos e filhos dospolícias, funcionários do quadro técnico comum nos diferentes níveis de ensino.'
-        url: 'garantir-acesso-a educacao-aos-filhos-dos agentes-da-policia'
-        status: Em progresso
-        status_info: ''
-        category: Governação
-        tags:
-            - ''
-        comments: 
-            - ''
-        sources:
-            - 'https://www.youtube.com/watch?v=_xIFG-7Kpn8&amp;t=43s'
-    -
-        title: '“Estamos para desenhar uma política do primeiro emprego”. '
-        description: 'A politica vai permitir aos jovens com formação,mas sem experiencia ter um emprego ou criar o próprio'
-        url: 'estamos-para-desenhar-uma-politica-do-primeiro-emprego'
-        status: Não iniciada
-        status_info: ''
-        category: Emprego
-        tags:
-            - ''
-        comments: 
-            - ''
-        sources:
-            - 'https://www.youtube.com/watch?v=kO6S6IhE16s&amp;t=16s'
-    -
-        title: 'Aumentar números de médicos no distrito de Vilanculos'
-        description: ''
-        url: 'aumentar-numeros-de-medicos-no-distrito-de-vilanculos'
-        status: Cumprida
-        status_info: ''
-        category: Saúde
-        tags:
-            - 'Inhambane'
-        comments: 
-            - ''
-        sources:
-            - 'https://www.youtube.com/watch?v=DBstkoDIkV0&amp;t=312s'
-    -
-        title: 'Aumentar infra-estruturas hospitalares em Chiúre, Cabo Delgado.'
-        description: ''
-        url: 'aumentar-infra-estruturas-hospitalares-em-chiure'
-        status: Não iniciada
-        status_info: 'Nenhuma infra-estrutura hospitalar foi construída no distrito de Chiúre de 2015 a 2017, segundo dados do Ministério da Saúde.'
-        category: Saúde
-        tags:
-            - 'Cabo Delgado'
-        comments: 
-            - ''
-        sources:
-            - ''
-    -
-        title: 'Promete construir hospitais no distrito de Lalaua'
-        description: ''
-        url: 'construir-hospitais-no-distrito-de-Lalaua'
-        status: Em progresso
-        status_info: 'Apenas foi construído um centro de saúde rural de 2015 a 2017, segundo dados do Ministério da Saúde.'
-        category: Saúde
-        tags:
-            - ''
-        comments: 
-            - ''
-        sources:
-            - 'https://www.youtube.com/watch?v=Zq_yvrf9Vhk'
+
