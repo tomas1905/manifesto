@@ -127,6 +127,19 @@
 			"sources": [
 				"https://www.youtube.com/watch?v=Zq_yvrf9Vhk"
 			]
+		},
+		{
+			"title": "Promover a construção de 35 mil casas",
+			"description": "",
+			"url": "construir-35-mil-casas",
+			"status": "Em progresso",
+			"status_info": "Apenas foi construído um centro de saúde rural de 2015 a 2017, segundo dados do Ministério da Saúde.",
+			"category": "Saúde",
+			"tags": null,
+			"comments": null,
+			"sources": [
+				"http://www.portaldogoverno.gov.mz/por/content/download/1960/15695/version/1/file/Plano+Quinquenal+do+Governo+2015-2019.pdf"
+			]
 		}
 	]
 }
