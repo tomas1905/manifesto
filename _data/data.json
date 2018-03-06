@@ -45,6 +45,20 @@
 			"sources": [
 				"http://www.portaldogoverno.gov.mz/por/content/download/1960/15695/version/1/file/Plano+Quinquenal+do+Governo+2015-2019.pdf"
 			]
+		},
+	"promises": [
+		{
+			"title": "Reabilitar a linha-férrea Cuamba - Lichinga",
+			"description": "",
+			"url": "reabilitar-linha-ferrea-cuamba-lichinga",
+			"status": "Cumprida",
+			"status_info": " ",
+			"category": "Infraestrutura",
+			"tags": null,
+			"comments": null,
+			"sources": [
+				"http://www.verdade.co.mz/tema-de-fundo/35-themadefundo/60113-linha-ferrea-cuamba-lichinga-promessa-eleitoral-cumprida-ou-mais-um-negocio-que-beneficiou-alguns-membros-da-frelimo"
+			]
 		}
 	]
 }
