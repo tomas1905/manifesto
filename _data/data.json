@@ -84,6 +84,19 @@
 			"sources": [
 				"https://www.youtube.com/watch?v=5T-Dbj6x0nk"
 			]
+		},  
+		{
+			"title": "Construir a barragem de Mapai",
+			"description": "",
+			"url": "construir-a-barragem-de-mapai",
+			"status": "Quebrada",
+			"status_info": " ",
+			"category": "Infraestrutura",
+			"tags": null,
+			"comments": null,
+			"sources": [
+				"http://www.jornaldomingo.co.mz/index.php/em-foco/3914-nyusi-encerra-campanha-eleitoral-com-showmicio-em-malhazine"
+			]
 		}
 	]
 }
