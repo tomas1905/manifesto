@@ -110,6 +110,19 @@
 			"sources": [
 				"http://www.jornaldomingo.co.mz/index.php/ultima-hora/22-em-foco/3914-nyusi-encerra-campanha-eleitoral-com-showmicio-em-malhazine"
 			]
+		},  
+		{
+			"title": "Construir a ponte sobre o rio Luco",
+			"description": "",
+			"url": "construir-a-ponte-sobre-o-rio-luco",
+			"status": "Cumprida",
+			"status_info": " ",
+			"category": "Infraestrutura",
+			"tags": null,
+			"comments": null,
+			"sources": [
+				"http://www.jornalnoticias.co.mz/index.php/politica/22433-eleicoes-2014-nyusi-promete-ponte-para-namogelia.html"
+			]
 		}
 	]
 }
