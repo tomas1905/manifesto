@@ -123,6 +123,19 @@
 			"sources": [
 				"http://www.jornalnoticias.co.mz/index.php/politica/22433-eleicoes-2014-nyusi-promete-ponte-para-namogelia.html"
 			]
+		},  
+		{
+			"title": "Asfaltagem da Estrada Lichinga - Cuamba",
+			"description": "",
+			"url": "estrada-lichinga-cuamba",
+			"status": "Em progresso",
+			"status_info": " ",
+			"category": "Infraestrutura",
+			"tags": null,
+			"comments": null,
+			"sources": [
+				"http://www.jornalnoticias.co.mz/index.php/politica/22999-campanha-eleitoral-nyusi-promete-criar-facilidades-em-ngauma.html"
+			]
 		}
 	]
 }
