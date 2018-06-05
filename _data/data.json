@@ -149,6 +149,19 @@
 			"sources": [
 				"http://www.portaldogoverno.gov.mz/por/content/download/1960/15695/version/1/file/Plano+Quinquenal+do+Governo+2015-2019.pdf"
 			]
+		},  
+		{
+			"title": "Manter o crescimento económico na ordem de 7 - 8% do PIB",
+			"description": "",
+			"url": "manter-crescimento-economico",
+			"status": "Quebrada",
+			"status_info": " ",
+			"category": "Economia",
+			"tags": null,
+			"comments": null,
+			"sources": [
+				"http://www.portaldogoverno.gov.mz/por/content/download/1960/15695/version/1/file/Plano+Quinquenal+do+Governo+2015-2019.pdf"
+			]
 		}
 	]
 }
