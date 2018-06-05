@@ -136,6 +136,19 @@
 			"sources": [
 				"http://www.jornalnoticias.co.mz/index.php/politica/22999-campanha-eleitoral-nyusi-promete-criar-facilidades-em-ngauma.html"
 			]
+		},  
+		{
+			"title": "Aumentar o número de empresas cotadas na Bolsa de Valores",
+			"description": "",
+			"url": "aumentar-empresas-na-bolsa-de-valores",
+			"status": "Em progresso",
+			"status_info": " ",
+			"category": "Economia",
+			"tags": null,
+			"comments": null,
+			"sources": [
+				"http://www.portaldogoverno.gov.mz/por/content/download/1960/15695/version/1/file/Plano+Quinquenal+do+Governo+2015-2019.pdf"
+			]
 		}
 	]
 }
