@@ -162,6 +162,19 @@
 			"sources": [
 				"http://www.portaldogoverno.gov.mz/por/content/download/1960/15695/version/1/file/Plano+Quinquenal+do+Governo+2015-2019.pdf"
 			]
+		},  
+		{
+			"title": "Aumentar o número de efectivos de elefantes",
+			"description": "",
+			"url": "aumentar-numero-de-elefantes",
+			"status": "Quebrada",
+			"status_info": " ",
+			"category": "Ambiente",
+			"tags": null,
+			"comments": null,
+			"sources": [
+				"http://www.portaldogoverno.gov.mz/por/content/download/1960/15695/version/1/file/Plano+Quinquenal+do+Governo+2015-2019.pdf"
+			]
 		}
 	]
 }
