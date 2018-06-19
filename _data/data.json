@@ -175,6 +175,19 @@
 			"sources": [
 				"http://www.portaldogoverno.gov.mz/por/content/download/1960/15695/version/1/file/Plano+Quinquenal+do+Governo+2015-2019.pdf"
 			]
+		},  
+		{
+			"title": "Rácio profissionais de saúde por 100.000 habitantes",
+			"description": "",
+			"url": "racio-tecnico-de-saude-por-habitante",
+			"status": "Em progresso",
+			"status_info": " ",
+			"category": "Saúde",
+			"tags": null,
+			"comments": null,
+			"sources": [
+				"http://www.portaldogoverno.gov.mz/por/content/download/1960/15695/version/1/file/Plano+Quinquenal+do+Governo+2015-2019.pdf"
+			]
 		}
 	]
 }
