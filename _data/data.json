@@ -188,6 +188,20 @@
 			"sources": [
 				"http://www.portaldogoverno.gov.mz/por/content/download/1960/15695/version/1/file/Plano+Quinquenal+do+Governo+2015-2019.pdf"
 			]
+		},  
+		{
+			"title": "Aumentar o número de novos empregos",
+			"description": "",
+			"url": "aumentar-numero-de-novos-empregos",
+			"status": "Em progresso",
+			"status_info": " ",
+			"category": "Emprego",
+			"tags": null,
+			"comments": null,
+			"sources": [
+				"http://www.portaldogoverno.gov.mz/por/content/download/1960/15695/version/1/file/Plano+Quinquenal+do+Governo+2015-2019.pdf"
+			]
 		}
+		
 	]
 }
