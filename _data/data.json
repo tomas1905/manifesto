@@ -214,6 +214,19 @@
 			"sources": [
 				"http://www.portaldogoverno.gov.mz/por/content/download/1960/15695/version/1/file/Plano+Quinquenal+do+Governo+2015-2019.pdf"
 			]
+		},  
+		{
+			"title": "Cobertura de partos institucionaiso",
+			"description": "",
+			"url": "taxa-de-cobertura-partos-insitucionais",
+			"status": "Cumprida",
+			"status_info": " ",
+			"category": "Saúde",
+			"tags": null,
+			"comments": null,
+			"sources": [
+				"http://www.portaldogoverno.gov.mz/por/content/download/1960/15695/version/1/file/Plano+Quinquenal+do+Governo+2015-2019.pdf"
+			]
 		}
 		
 	]
